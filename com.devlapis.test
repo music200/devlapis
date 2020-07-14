@@ -1,0 +1,118 @@
+<rss>
+    <channel>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>Zine Bladi</title>
+            <enclosure url="https://listen.radioking.com/radio/179038/stream/220729"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>Med Radio</title>
+            <enclosure url="https://streamer.eagrpservices.com/audio/mfmradio.ogg"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>MFM Radio</title>
+            <enclosure url="https://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>Radio Aswat</title>
+            <enclosure url="https://broadcast.ice.infomaniak.ch/aswat-high.mp3"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>Radio Mars Radio Mars </title>
+            <enclosure url="https://radiomars.ice.infomaniak.ch/radiomars-128.mp3"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>Chada FM</title>
+            <enclosure url="https://onlineradiobox.com/json/ma/chada/play?platform=web"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>Radio 2M</title>
+            <enclosure url="https://radio2m-i.akamaihd.net/hls/live/624355/radio2m/playlist-128000.m3u8"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>Atlantic Radio</title>
+            <enclosure url="https://onlineradiobox.com/json/ma/atlantic/play?platform=web"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>Rif Melody Radio</title>
+            <enclosure url="https://onlineradiobox.com/json/ma/rifmelody/play?platform=web"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>Radio France Maghreb 2</title>
+            <enclosure url="http://francemaghreb.ice.infomaniak.ch/francemaghreb-high.mp3"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>RadioWeb</title>
+            <enclosure url="https://onlineradiobox.com/json/ma/web/play?platform=web"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>Skyrock Casablanca </title>
+            <enclosure url="https://icecast.skyrock.net/s/casa_aac_64k"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>Love Maroc </title>
+            <enclosure url="https://onlineradiobox.com/json/ma/lovemaroc/play?platform=web"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>Radio Plus Marrakech</title>
+            <enclosure url="https://onlineradiobox.com/json/ma/plusmarrakech/play?platform=web"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>Sawtlmoustahlik</title>
+            <enclosure url="https://onlineradiobox.com/json/ma/sawtlmoustahlik/play?platform=web""/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>Radio24</title>
+            <enclosure url="https://onlineradiobox.com/json/ma/radio24/play?platform=web"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>xxxxxxx</title>
+            <enclosure url="xxxxxxxxx"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>xxxxxxx</title>
+            <enclosure url="xxxxxxxxx"/>
+        </item>
+        <item>
+            <imag img="zzzzzzzz"/>
+
+            <title>xxxxxxx</title>
+            <enclosure url="xxxxxxxxx"/>
+        </item>
+    </channel>
+</rss>
